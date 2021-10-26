@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 aluno1
 
 este doc pertence ao aluno1
+=======
+aluno2
+
+doc do aluno2
+>>>>>>> aluno2
